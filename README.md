@@ -1,16 +1,12 @@
-# Denver B-Cycle 2014 Ridership 
+# bcycle
 
-Tyler Byers
+July 2, 2021
 
-tybyers@gmail.com
+My first Project 
 
-August 23, 2015
+This is my final project for University of Washington's Methods for Data Analysis class, course #3 of 3 in the [Data Science Certificate program](http://www.pce.uw.edu/certificates/data-science.html).  This project looks at public data from the [Denver B-cycle](https://denver.bcycle.com/) program, which is merged with distance data from Google Maps and weather data from [forecast.io](http://www.forecast.io).
 
-## Project Summary
-
-This is my final project for University of Washington's Methods for Data Analysis class, course #2 of 3 in the [Data Science Certificate program](http://www.pce.uw.edu/certificates/data-science.html).  This project looks at public data from the [Denver B-cycle](https://denver.bcycle.com/) program, which is merged with distance data from Google Maps and weather data from [forecast.io](http://www.forecast.io).
-
-## Project Files
+File://*
  
  The following project files are in this project directory:
  
